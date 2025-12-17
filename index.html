@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI News Tracker</title>
+  <style>
+    body{font-family: Arial; padding: 30px;}
+    .pane {
+      display: inline-block;
+      paddding: 20px;
+      margin: 10px;
+      border: 1px solid #333;
+      cursor: pointer;
+      width: 250px;
+    }
+  </style>
+</head>
+</body>
+
+<h1>AI News Tracker</h1>
+
+<div class="pane" onclick="openList('trump_ai_deregulation')">
+  Trump AI Deregulation<br>
+  <strong id="trump_ai_deregulation">-</strong>
+</div>
+
+<div class="pane" onclick="openList('ai_case_law')">
+  Trump AI Deregulation<br>
+  <strong id="ai_case_law">-</strong>
+</div>
+
+<div class="pane" onclick="openList('ai_deepfake_scam')">
+  Trump AI Deregulation<br>
+  <strong id="ai_deepfake_scam">-</strong>
+</div>
+
+<script>
+["trump_ai_deregulation","ai_case_law","ai_deepfake_scam"]
+.forEach(name=>{
+  fetch('data/${name}.json')
+    .then(r=>r.json())
+    .then(d=>document.getElementById(name).innerText=d.total);
+});
+
+function openList(name){
+  window.location='list.html?dataset=${name}';
+}
+</script>
+
+</body>
+</html>
+      
+      
