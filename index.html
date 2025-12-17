@@ -36,7 +36,7 @@
 <script>
 ["trump_ai_deregulation","ai_case_law","ai_deepfake_scam"]
 .forEach(name=>{
-  fetch('data/${name}.json')
+  fetch(`data/${name}.json`)
     .then(r=>r.json())
     .then(d=>document.getElementById(name).innerText=d.total);
 });
