@@ -46,6 +46,6 @@ for key, query in KEYWORDS.items():
     })
     seen.add(url)
     data["total"]+=1
-
-file.write_text(json.dumps(data,indent=2))
+  
+    file.write_text(json.dumps(data,indent=2))
   
