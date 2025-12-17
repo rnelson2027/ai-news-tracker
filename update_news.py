@@ -39,7 +39,7 @@ for key, query in KEYWORDS.items():
     if url in seen:
       continue
 
-    data["articles}.append({
+    data["articles"]}.append({
       "title":entry.title,
       "url":url,
       "published":entry.get("published", "")
