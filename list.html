@@ -5,21 +5,21 @@
 </head>
 <body>
 
-<h1 id"title></h1>
-<u1 id="articles"></u1>
+<h1 id="title"></h1>
+<ul id="articles"></ul>
 
 <script>
 const params=new URLSearchParams(window.location.search);
 const dataset=params.get("dataset");
 
-fetch('dataset/${dataset}.json')
+fetch(`dataset/${dataset}.json`)
   .then(r=>r.json())
   .then(d=>{
-    document.getElementByID("title").innerText=d.label;
+    document.getElementById("title").innerText=d.label;
     d.articles.forEach(a=>{
-      const li=document.createElement("li)";
-      li.innerHTML='<a href="${a.url}" target="_blank">${a.title}</a>';
-      document.getElementByID("articles").appendChild(li);
+      const li=document.createElement("li");
+      li.innerHTML=`<a href="${a.url}" target="_blank">${a.title}</a>`;
+      document.getElementById("articles").appendChild(li);
     });
   });
 </script>
