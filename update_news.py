@@ -3,13 +3,13 @@ import json
 from pathlib import Path
 
 #keywords used in the rss earch terms
-KEYWORDS={
+keywords={
   "trump_ai_deregulation": "trump ai deregulation",
   "ai_case_law": "ai case law",
   "ai_deepfake_scam": "ai deepfake scam"
 }
-DATA_DIR=Path("data")
-DATA_DIR.mkdir(exist_ok=True)
+dataPath=Path("data")
+dataPath.mkdir(exist_ok=True)
 
 #create the string that is the search querrey by appenidng terms
 def rss_url(query):
@@ -20,8 +20,8 @@ def rss_url(query):
   )
 
 #for each key word, get the expected file path
-for key, query in KEYWORDS.items():
-  file=DATA_DIR/f"{key}.json"
+for key, query in keywords.items():
+  file=dataPath/f"{key}.json"
 
   #if the file exists, skip already known articles
   if file.exists():
