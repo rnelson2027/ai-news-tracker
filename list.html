@@ -20,9 +20,9 @@ fetch(`data/${dataset}.json`)
     document.getElementById("title").innerText=d.label;
     d.articles.forEach(a=>{
       /*document page handling*/
-      const doc=document.createElement("doc");
-      doc.innerHTML=`<a href="${a.url}" target="_blank">${a.title}</a>`;
-      document.getElementById("articles").appendChild(doc);
+      const li=document.createElement("li");
+      li.innerHTML=`<a href="${a.url}" target="_blank">${a.title}</a>`;
+      document.getElementById("articles").appendChild(li);
     });
   });
 </script>
