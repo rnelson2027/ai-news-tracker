@@ -1,10 +1,13 @@
 name: Weekly News Update
 
+#When to run
 on:
   schedule:
+  #run weekly
     - cron: "0 3 * * 1"
   workflow_dispatch:
 
+#create virtual machine
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -12,14 +15,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      #install python
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - run: pip install feedparser
 
+      #run program
       - run: python update_news.py
 
+    #document update handling
       - run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
