@@ -1,3 +1,4 @@
+<!--Create article header-->
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,17 +10,19 @@
 <ul id="articles"></ul>
 
 <script>
-const params=new URLSearchParams(window.location.search);
-const dataset=params.get("dataset");
-
+const parameters=new URLSearchParams(window.location.search);
+const dataset=parameters.get("dataset");
+  
+/*get the .json files that contain the parsed links*/
 fetch(`data/${dataset}.json`)
   .then(r=>r.json())
   .then(d=>{
     document.getElementById("title").innerText=d.label;
     d.articles.forEach(a=>{
-      const li=document.createElement("li");
-      li.innerHTML=`<a href="${a.url}" target="_blank">${a.title}</a>`;
-      document.getElementById("articles").appendChild(li);
+      /*document page handling*/
+      const doc=document.createElement("doc");
+      doc.innerHTML=`<a href="${a.url}" target="_blank">${a.title}</a>`;
+      document.getElementById("articles").appendChild(doc);
     });
   });
 </script>
