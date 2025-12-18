@@ -14,13 +14,13 @@
 const parameters=new URLSearchParams(window.location.search);
 const dataset=parameters.get("dataset");
   
-/*get the data in the .json filess*/
+/*get the data in the .json files*/
 fetch(`data/${dataset}.json`)
   .then(r=>r.json())
   .then(d=>{
     document.getElementById("title").innerText=d.label;
     d.articles.forEach(a=>{
-      /*document page handling*/
+      /*create and add list item for each article*/
       const li=document.createElement("li");
       li.innerHTML=`<a href="${a.url}" target="_blank">${a.title}</a>`;
       document.getElementById("articles").appendChild(li);
