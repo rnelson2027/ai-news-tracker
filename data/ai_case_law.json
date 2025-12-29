@@ -1,7 +1,7 @@
 {
   "label": "Ai Case Law",
   "query": "ai case law",
-  "total": 128,
+  "total": 135,
   "articles": [
     {
       "title": "Judge fines law firm Hagens Berman over AI errors in OnlyFans case - Reuters",
@@ -642,6 +642,41 @@
       "title": "Beyond Regulation: What 500 Cases Reveal About the Future of AI in the Courts - Tech Policy Press",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3hZcUdxbTRGdzRSMGwySVN3ejJjX1Zya3lfWWFNbWlmWFFlY3U1QlhDU0wyVE1hWXBvZFk5SHZKR0NwVGxFLTVVZjUwa08xYjFRcmtYXzkzOHJFVUw1NDFDS1ZNMlBET0dWXzBzNHQ5ZDJ4ekFrdi1aeVVyZ1RLWGVaUUhiLW1fZ3IwR1RYMzlPXzhva2J2a0p2SE42Sk1HWVdj?oc=5",
       "published": "Tue, 20 May 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Prosecutor Used Flawed A.I. to Try to Keep a Man in Jail, His Lawyers Say - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTElLZEUwanZERVp0MUNqenBTVTlNelZVVDgxTWxDNjNwbUhoa3ZPRnM0ZEFkM1Z1YmczaTdPcmZLZzJ4VDhMTHJoUGlUWVlNLUZOX0NSZ0EyY0pkV3VLRXduMHdzcEs3U3dPR3lsSnFQOW9NZnlJLWJmeTVJM3h6REFFdC1CTVltY05QSzRrcDNVQ3BJdHNnc29tMFJ5WV84ZE0zdHR3?oc=5",
+      "published": "Thu, 04 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Confronted with AI hallucinations in filings, one court shows 'justifiable kindness,' while another gets tough - ABA Journal",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTHgyckFTMzBNRDZqSGVkVlhlTS1QTFNncXZmVEdqUVhyVGhVblN2YXA1eGZYLWxBc1gxUEU5SGxPWnBOOFprYURsZFVicW1wRm9GMHRiU04xN3l0X1ZtRUhwSGJremsxN0NuVzFqenROWEg5aUJvNTRqZHF2TFRTNmdqdWpzRUpQeGw4RkdBX3FkQmVBM1JrbW01OHUzcjhKOFM3M2w5NXNPbzFIOW1lbXpnMU5uVl9GbzJhLXNxRU1zUWhKbF9XVU9acGt0T2xhVFdIMmhPSFFNcHhU?oc=5",
+      "published": "Tue, 19 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Dressing old laws in class action suits: Applying anti-wiretapping laws to AI transcription services - IAPP",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVhueERxaDIyLXRacGpTbHFUVlNsOWxXakswUWtyUnJDbldhMmhPUUpzQmg5dVlpYm4yekpJN0NoSTB0d2JWSTR2Y0ZkUGFYMXpiNWFuQzJGQld1YTdZSm1MTXhoVkpfemtTVzJ0TUo2ejlRNldXekg4VUQxOWE0bDV3LUhBOUlvSEhYXzBaWFdPZFNPbExxQkc2Q3FTYV85VE5QWC1LQzhwVWJoQmNOWkVEY0xqUTEwN1g0bjMxNlc?oc=5",
+      "published": "Tue, 04 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Anthropic\u2019s Copyright Settlement: Lessons for AI Developers and Deployers - Buchanan Ingersoll & Rooney",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3FBYUN3TkhqUXo0Y0lRNFg4Z0hLWWoyS01BeVBNYjBhUE9LMDhTRE5ZVndZSHVleTk4cWRKZVVQM2VzT2taOXV2VlVDMWp4dnljOWdocFJTSTgxRzBGNXh4bDNrZ0tPR1VIdzhqTTFfeE5BOXg2TGxzTlI3Wl9falIxZVZKeFhNcEo2bUdFXzdjTm8yOWtRNGNzWGduWFgxN180?oc=5",
+      "published": "Wed, 17 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Defending the Algorithm\u2122: A Bayesian Analysis of AI Litigation and Law: Trade Secrets and AI \u2014 Calculating the Odds of Protection - JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTV9jQmlOcEFzanVVelN5dkpkUHpsWW84UWJDWjBQdGsxVkVVLTlzRmlGVlRVdGtFOTM2eVRIcFNmZVJTVi00VHh6bEpnSzRiOVdzOVg0dVZJR3ZZNEZqWmR2bkdWSTdtb2R6b3BhVkJCb3VqcEgxQmUwSjhOdGlUZjJSQm9aOWc?oc=5",
+      "published": "Fri, 24 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "AI in legal research: Efficiency without compromise - Thomson Reuters Legal Solutions",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjZzRmc1eDk4MktkYVN0T2JWclRhUkFJLWhoOEFlUEJYa1NpRGFVZ1B1Zm5hbTRmWWZPUnNEUWhWU1Rfd29BTHYxaHRHRl9PYkZIdW5tcnZReUd0VzRMM2JadVZkOWJjbkVSbXNvSHpIVjc0bi1UMnBYbUdoUXVFSEJ1WGtEV1A2RlNMNUxhNHFwcWs?oc=5",
+      "published": "Tue, 08 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "title": "California prosecutors\u2019 office used AI to file inaccurate motion in criminal case - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLVpLNHU0OXFZNVhoSloxTmthWEpmQmVKWEtaZGpNWUxndlByQ1diZFpkdGFpS1h4RmZLWl9icnFydS1lZ1FIMjlGSkJPNG5CTnQ0TWFuNmpJc0Q5YTdIWmdkTW5rdGQ1NmhUMkwzb1FBdGFKQzRFdEdtS2k4ZUtOTENPV0Nndw?oc=5",
+      "published": "Wed, 26 Nov 2025 08:00:00 GMT"
     }
   ]
 }
