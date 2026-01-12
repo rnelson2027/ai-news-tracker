@@ -1,7 +1,7 @@
 {
   "label": "Ai Case Law",
   "query": "ai case law",
-  "total": 145,
+  "total": 155,
   "articles": [
     {
       "title": "Judge fines law firm Hagens Berman over AI errors in OnlyFans case - Reuters",
@@ -727,6 +727,56 @@
       "title": "The Higher Regional Court Cologne Barks Up The Wrong (Data) Tree: The Court\u2019s Interpretation of Article 5(2)(b) DMA in the Meta AI Case - Wolters Kluwer",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQdGRDMDdTbmE1VGs1Yi10c3BEQlNZblNlbzgyUzRlc28xLU1HZ0JQeEZ1MW84QVF5NzRPeV85eEctQm9MMFNXWjRRM0dOcEg3cWtJUFlUX2Rvb3Rkb1ZvUGM1cU9tVUcxb0hGOHBzVm1naGZWTmpjamVoV1JMUk1JNERaWHFEZE9ycndjcjA3MjdiMElWZDBRdTNtZzhaeTlsWFg4R2JKYXFHZ2tFMldRQ1ZfRGtiSFhhMnFPUGtYY0RzREFPQWpoS0VieC1makhzbldkbHp0QjVuQXR2cjVZdVhYdUJ6SHFmQ3NxVGRJVUwyMHlfc213MDR0bWRyUGxEaU00S2RHX1czZVQ3V1h3?oc=5",
       "published": "Mon, 21 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "title": "We Get AI for Work\u2122: Analyzing \"Brewer v. Otter.ai\" \u2014 A Case Study of the Legal Risks of AI Note Takers - Jackson Lewis",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU0J1ZVN0RHpzNkdVODdiTnhNYUJlQ21tbWlDYWhtZ1l1emFzSjVmSk1vY3pEUGQyVk9uaENRR3ktTGVzSU8xd2FUd0hOTjBtVS1mQ3EyaDVObUptRm9JTWM5SlgxWnpQY1FoWTEtU0JRY2dzSnB2dVJIa0ZvMmNTbDdPYXFQMFhxQXgyanV5WVBpRjZyblFxRmpZNE5QSUhqTkxlbVhQUjI2RF9RbUUyemFuSzh3ZkJJ?oc=5",
+      "published": "Tue, 06 Jan 2026 15:54:23 GMT"
+    },
+    {
+      "title": "Judges are identifying suspected AI hallucinations in Pa. court cases \u2014 including one at the highest levels - Spotlight PA",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdl91UDJwTkQ4SFFVb0ZNb1JjcXBNdXF6UEZ2Vi0wY291NTN0UklJVEluZ19JRFBTOHF1Xy1lOG16M1pkUkQ1RTc0bk9hbUJSUGRocDQ5c1ltZ2lZdnJPelB0eERnQlRmTVJXeUpPd2V5NWVabUpFQTJKc0VuSS1xTE1aQTBONFpBX0dVV3l0dkxSTWVPZU83ZGNHU1F1b3FiZ3RrLUZHRzYzTzF2WFhBYjJJZ1dsUHFsemc?oc=5",
+      "published": "Wed, 07 Jan 2026 09:00:00 GMT"
+    },
+    {
+      "title": "How AI hallucinations by ChatGPT ended up in legal citations in Kansas - The Topeka Capital-Journal",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWllLRm1ySVQwcWVjbGp5Y2xsdlp2b3lFcUdQSU5CaGotMjhDSTZoOUZOYmdzQmRqSmxnQjEzV3pBYXFaVWx6MXRrdy1qamt5eUo1ODlkcTE4VDBzb1BNaEhneFFJVEZnZEN1VlVOTXVxeUM4NDk4VURmSWFXU3pKa01rVGNrOFNHTm13N010UTQxLUR3cWxkSlVPa1I5UC1FVmxsZkQ1Q3R3R2RRMVRuU0JESWlXNmlOcE1neExqb2oybVVNOTVUT0xNMllRT0ctd296WTJHY3JyUmM?oc=5",
+      "published": "Thu, 08 Jan 2026 10:06:00 GMT"
+    },
+    {
+      "title": "AI 'HALLUCINATIONS' COST NEW YORK LAWYER $5K - the free lance news",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa01LQTBTWmhxOVowNHY4UE9zQ2VjME9LVUZzc0x6QlM5czdKbUhPXzBzUVBtVUZnXzU5cldrQ2NXaXZfSWFpbVpQSXJQVFoxT3ltYzY5S0gtRVRiSlNQQTZwSW5kcnBjUGlRdWpwNXFqdEozWnpDR3BzUGxacWZqQW1kZ25GUQ?oc=5",
+      "published": "Fri, 09 Jan 2026 02:33:36 GMT"
+    },
+    {
+      "title": "AI Legal Research vs. Traditional Research: Why Modern Firms Are Switching - nerdbot",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZnRmUGlSbWxSRDBiQnJncVgyWnpoeUVTSHhsdWtHTEZwX05ERmxWWThoZmZ1U182N011YXR6bFFvMkMzSVVFWWFuQnpCVTlWR0pYWS1ZWW14RXpfVDc5bUxqQXZaOFYtUzFvbm1TbDN4bmFpR1I5YVBjZnNzUWQ1TEJQYzB0dU9QODRoMXRtUExJSkl2ZUlDNUJqMmFacGFoNHcyM3B4Zw?oc=5",
+      "published": "Fri, 09 Jan 2026 16:12:23 GMT"
+    },
+    {
+      "title": "AI-generated legal errors: A lawsuit in New Hampshire - Concord Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZG45eG51a3E1eFNXXzRlSDZOaFRLWTlCdkNaMHo4ZWl2T3o4R0hoUGY5Y3cwM3RLSUlLMVlSYjZpMTFMWmVCWHBHTVNXQzVyb25MX0NxMXl5eVRDZjVLMk1td1dZeEtkamtGVzJ1cjVNOXdlR1hiVFRSZy10X2sxN3FR?oc=5",
+      "published": "Wed, 08 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Thomson Reuters and Supio bring AI to personal injury firms - Thomson Reuters Legal Solutions",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmV6UVRvSDN2S2xBYmxWY1JzR251a2dxMnhtVWhtaUtSSW9odExYNjVtTU9sSmdOTk5ZMUp3cXRkeWJDY1Bib0pVZkN2TDdmNVBER21Oa00tTlNWMjgtQlpqQWotWEI3NjQ4YmFzX3dXZXU0bHNfMFhFcHVPNXBLeDI3dWRSQUUwWmk1UGtuLUhRNGJINFlyWHdlQWpvOXhRMWdMNnNHRk9CTVJ0bFJqUDB1aTJ4Ui1QZGc?oc=5",
+      "published": "Thu, 30 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Judge sanctions lawyers for ai-generated fake citations - Michigan Lawyers Weekly",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3BMenFGQjQ5MmdBOUc3aDlMTXYzd3dRVnNSZDlmTkVReldQaUoxdExaZ2FhdTZsaHM0cTlKbnk0Tjl4Q05lY0hNalpOeS1iOEhIaERrUTctZkRhOHJOTXlSbGZtenNzVkMwaDBKYTBkWlBwSUw0dFRMc0MzNlFud1VXWWVxTkU?oc=5",
+      "published": "Thu, 11 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "AI is helping judges to quickly close cases, and lawyers to quickly open them - Rest of World",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhaXJJTGM0eUxURGJfcC1JMm80TElCdElOTVplSUZXamlqbnRtNE5aanlzcUwzVDRjNWJJdVB5aHdFbE04YV8yb09LV0ZzVDdHU0VGUjlSRmU1QWIxVW95RG5ZaVN2UQ?oc=5",
+      "published": "Thu, 25 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "2nd or 3rd Inning?: Takeaways From the 2025 Mayer Brown AI Summit in Los Angeles - Mayer Brown",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaTlXX0FScjQ4MXFFQWxmQWtXaEhPUzdsUHAzNm04RmNGNzBkcmh1VHRNeWtZV1ZPS1FiU2ZrVU5yU1dFdzlicWl2Y3FjcmxhM0xKZ0MtNWRyeTVpTjcxY1hHM1g5d3plalVqVWgwYTdQbkdDQWRIYTI5OUVqTlk0VXRkMFJqNkdRV2FJcW5GWUpydi1rX1VsTHBrWU1wQWVHNGpmR2Y3VzA1dVdLeGx1VGJiRTU1bHh1eVM1NHVR?oc=5",
+      "published": "Thu, 20 Nov 2025 08:00:00 GMT"
     }
   ]
 }
