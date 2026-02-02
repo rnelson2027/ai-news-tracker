@@ -1,7 +1,7 @@
 {
   "label": "Ai Case Law",
   "query": "ai case law",
-  "total": 193,
+  "total": 203,
   "articles": [
     {
       "title": "Judge fines law firm Hagens Berman over AI errors in OnlyFans case - Reuters",
@@ -967,6 +967,56 @@
       "title": "AI is breakin' the law - Substack",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMZEJYU1Zpenk2d1NiaWZPbVo1OVViMFhuM2RxcHFYeV80amJUYTVDbXNIUmdDbjV3d2Z6UHFzSVBnQ1BOeUZmTmh6bHpJaU5VdlJIZGFjWHBSVkFDUmpTakpsaDk4QnM3VFpPb2xjOUxDaEoyQkNn?oc=5",
       "published": "Mon, 08 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "As AI-generated fake content mars legal cases, states want guardrails - Stateline",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORl9iU1RWTFNxd2xTbWxSRUpfOUh0RXJlYzVTUjctRGZfX0xYS0VUYVdrZnVieGVjVW9PT1R2b2tLQ2pBSXF3OHJuYnBPOFlNVDBVNkFhM0tvUURyZVRYVzY2b1BJTUpUUkxKUHF1QVBVOTNFNFJsc0ROalZKcWxMYllWVUlnQ0s5bzJTR1VtM2x5QmdWX2p1aS1KbjVzektEdXFudw?oc=5",
+      "published": "Mon, 26 Jan 2026 10:07:22 GMT"
+    },
+    {
+      "title": "Law enforcement is the leading DHS use case for AI - Nextgov/FCW",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnRPdkY5NFl4SkxZTVBfQ1h2VkwzMjRYa2c5OWpDTVdmR1dualY5VGZCTk9HU2hpamtSaWlITDJIRERwRDF4OE5aZlh2TmtSVlR1Q1hlUlFaM05KdW01Mk5QOFptdXpLbnkyeHFoZkFSWkNyUFZsWGpGNEEyTTZ2MXBOTlpqNHFmbER0OHFPNlVpN29wbTlQQVdDbXRia2h0QzQ3T3VB?oc=5",
+      "published": "Thu, 29 Jan 2026 21:06:00 GMT"
+    },
+    {
+      "title": "Australian lawyer apologizes for AI-generated errors in murder case - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTVNMRjZKZEZMTGhVd1gtV1hKYThrNGhBNG9RUUV4TS02Uk1wVkFWRDBnTEt4SEtPdTVfYWVKbE51MGJHMmI1bUNDOGV5TmtnTWw4Q0pkWVZRM3lTUkVMTVZuTHg5bndWaTJ1dU5vb0JSc0tGWXNkZjdQUWN2MnQ3WWM3RDB0cGJZczc0QWtLNk5nR3VqQ2ZCY0EyWlE4Qzl6?oc=5",
+      "published": "Mon, 26 Jan 2026 21:10:00 GMT"
+    },
+    {
+      "title": "Connecticut lawyer accused of citing AI-generated fake cases in court filings - Connecticut Post",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYVZlR255S1hNbS1EMEw5YXNvLUxWMHdDenZJVlFFd1l6NFJUX1Q2Q05OOTFxSjFVVks2TnkzWm1TVzJHQm9EVHBBQzhibDhTUXpwUlZLZHhTMHR2RDdGa2tjeE9JMmhRM1g4RmtvQ29qV1ZWYVotdURpbmdyQkRlR3VBZi1UTms0dHNlSWNuYXBJMGUzNFV4UFJ3?oc=5",
+      "published": "Wed, 21 Jan 2026 11:31:42 GMT"
+    },
+    {
+      "title": "85 Predictions for AI and the Law in 2026 - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45Y0NxRHYtZkJlc3dCRDI5STFac2JNb0NOLUF2eWtnbXZGZDY2SW1JU0EtVGZpQ2RJak1ZQ3c4XzZuejlfVmJ1WEludTE5ckpBMUJueGFNSGw5emgtenZMNDJfcThtcW5nSGMwVHFzbErSAXZBVV95cUxNOFVGcEtTNlRfUEZ1eGttSXBaMzhqd1Z1QWhNTWotWWluMHhRQTUzLUVDUlRneVUwNnpmanJOMEF4U1RrMlpmODBZR09rOGFGb0VFMFJPZW1jTG5qOWRkVllKeVR3Snc5UnNoM2hVVGlRek9JWVNR?oc=5",
+      "published": "Mon, 05 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "AI in court cases and court cases about AI: eight legal tech stories that you might have missed - The Law Society",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdUJSVzJudnlnMlUxOFphSmQyNmoxenBwSnhrWHF1WEc3S2FUSF80R2hGRjRIUWZIaXhkLXBRY0Y4dy1DWC1KM053Smk2dEhqOTc0X1dMY3hCbGhpdmsxR2xZT0tLdVlYejBmcExCZHJxcVRLbWpkWUJjOWctSTI4VWsyNFotb0ZrQS1TM1RURG9HcFpWd3I5UUhWdXRsMFhodWpER1RNVUxhWU5IWEVnaWtvNEVWb1RTQlJHX0RSbFRHdmt4UkF1Q2dxMEQ3SFJUQUVKQW9WcnRpUWtXU3Z0RFpKZlNEOFU?oc=5",
+      "published": "Fri, 30 Jan 2026 14:28:45 GMT"
+    },
+    {
+      "title": "Courts Navigating AI Defamation Opens Legal Risks for Companies - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbUQ0SVliWGpiNEJyYm1yX1hncnlpZ1JlYjZOb0E4clJMNGlPTVNBcTlUdEg5WFJqZGdrUkl4TEluOVhvb0dsaVRIZ21kTXF5Mk51MkZKNlRfRVUxNEp4OHFOSkVrLVZHaXRVakYyVms4VFF5YXRmaWtoa3A2d0J1M2NMOVR3MXYtdGxvTWRiYy1TMHVCaW5zS2tzRlhhdXBFVGpQU3AxdElqRGZoajFQSUdITTZadmxxbm9RYnBWcExfLXJXY3F1Q3FjT2o?oc=5",
+      "published": "Wed, 17 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "California orders Elon Musk\u2019s AI company to immediately stop sharing sexual deepfakes - CalMatters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEpLWG5fNjZMaXBWS1ljWC1XMUFqbG5FdS1mYzBLdnFZdXhKYldpNGotYU9XRkFNV2dQRGUwMzg0OVluTE1hYncxaldKRXRtX19JQmRIRTJadU56bnF0VTJPV3Y2N0I2QVR5MWpyNWtmSERNSW55RXlQVTRKcW85R0dxNV81TmdTODlyOGU3ZHdpWU1kV2hmUHI4R3E4R3A5Z0RfbA?oc=5",
+      "published": "Wed, 14 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "AI a growing concern in the workers comp legal community - businessinsurance.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1ByaTdBYTJGYXdzQWRUOHUtaWtTOTVjdXFPS1JYZEQ2ZjRGZzh5a01QU0M2UUJoV056ZjVUbjgydGsxQkc3VlVpZjU4Nkh0ZF9rdjVSTnBteVlxQ1VHbGpzcnl1Nm1sdi0zdEo1WFVDN2I3VlRMRnVGeW5NbjA5MDRQQ0E5Uk9nXy0zSFQ0TU9fbzdITE93?oc=5",
+      "published": "Wed, 03 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "How Can Lawyers Stop AI's Hallucinations? More AI, of Course. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNem5SNVZuNE5NQnA4TlVVNG1sc0RyN3N4aTlqSEZsQ2xTeXZSZjhDenRJTHBYamhmMVRGVzBDYjd6dkplYkdIYmdvM2xNWjdLTEEyeEN1ZnYzUHRsbDhPbjVfRFd4NDdkZFJpY2lqMHQyZlBVdW1WTEtTald5eE9Vd1hfSXNjdVc3OVFoNHVsR1VGVVZDTDhOUWk4Ri1DQnh5a3c?oc=5",
+      "published": "Fri, 12 Dec 2025 08:00:00 GMT"
     }
   ]
 }
