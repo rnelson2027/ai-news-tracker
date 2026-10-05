@@ -1,7 +1,7 @@
 {
   "label": "Ai Case Law",
   "query": "ai case law",
-  "total": 863,
+  "total": 880,
   "articles": [
     {
       "title": "Judge fines law firm Hagens Berman over AI errors in OnlyFans case - Reuters",
@@ -4317,6 +4317,91 @@
       "title": "Sullivan & Cromwell Apologizes to Judge for AI Hallucinations - Bloomberg Law News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWNUOGN0XzMxaDdxSWpBSGc4VGNjSERlVDEzNW92U3pMcy04dk1TenhBQVcya1RwYWJhVldqRjNPV05RNWRZcGhjcnBBQ1N6UmR2R2NNRVFibnRoYUVNYlc0aEFlN3E5NzJzOHNsLXZhb3d4cjdtQzZxcU1XVEZxSGtVVGlTc2JIZGxSNTBzcWU0dUR2SnJtNkJzaktjbldsNmZvazczNC04RGZPS3BnWg?oc=5",
       "published": "Tue, 21 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "California\u2019s AI Law Hits Lawyers With Tough Disclosure Decisions - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEswUmpmLVAycHdWY0tncE9RNTBmdnFCcks1MHdCTUlPY2NxMVdDZlZvcXBPZWkyeG1sV2ZYZTNlTlhKcmlvTm9GMHJRM2FpeHVsc25NSnJGdDRnWEx4clVCX3IzVzhXNDVCc3pUV08teGtkNjg1cHdYUl9DNHM4a3FIaUp3eGhmNGxqQlZaRUJfZEtiZ2djOFpIOHZGNUs1QXpCY2NpOUF3MkE5bmFEaE1rOFB2Zw?oc=5",
+      "published": "Fri, 02 Oct 2026 16:24:00 GMT"
+    },
+    {
+      "title": "RelFest 2026 Takeaways: Legal Adapts to Era of Uncertainty as AI Takes Hold - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcE1mUDFrLUNUc2tORWdDNkh0OXpUd0Y3OTNrQy13VjlFWVpxc1pVZ2ZYMDg3aGhfZmU2OG9YMGVnODRiRlAtZGZHcGg5NlRQeXprc1Q0TjlUam9fYjlKY2tsUjZXT21kRm1aelZnQ3dfNVBpRlUwVmZvSW9LSDRhTVVJVUROek9rNFhsdkZmbG1XZVpjRm1USENWRXlxQ0JmbC1NakZEX2sxdmJGVUhacExDc3M0WXVRTzdpWg?oc=5",
+      "published": "Thu, 01 Oct 2026 13:52:31 GMT"
+    },
+    {
+      "title": "A.I. Is Going Rogue. Who Should Be Held Responsible? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhrakN2TGFTTmdhM0VtY2s5UjBjOVB5cnRRM1NHOWxPV1FGYTdfYjRrQkNZeFFBeHVkSXI1Q29DOE96WmNnSndCb1hwU1c4UGpxanNmMlJsNkJkYVRZNEpBSzdLdG55cXN5Z3hBYWVZSVVkQ1B2OV81Q1hEbExJUUJR?oc=5",
+      "published": "Sat, 03 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Tokyo court grants legal protection to human voices in AI clone case - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzItdlV2Zk5sSWoyZjBabTJWSnE5Nldqd1RvQWgtSWRRYlFwakI4d3BLRVNHblhFX21iZ2Mwa0MxVC1CYW05U3A4Nk9MLTkwdlY0bUJJTmJQS1Vwa1Z4aE51eEk4bm8tVWxtYklTRWRRdkxoWXVmWUtYcnkzcXJ5UlA4QV82c1V1SHJhU0hPUlBFOWM3OVB5NVpuelVaMjNlLUZfRdIBqgFBVV95cUxNR3piMmJnTFdJMDg2UER6cFkzYnRxN3FBd0xReDV4aUtxZklxWVY0U0U2UC1odWx3ZF92bHRYVmJ1cVc2Vk9Fcm5MY3NMUGctWFBnUWN6VThaV1phZEF6a3Fuc1dTejNzd2txTF80LU50OFJPY1p5cTRtU1VvVEN1bmpIOF9jalBwdklycUhTb2hoQ0pYTFY3Zm1Xalo2aWxOQU84dERHdjRhZw?oc=5",
+      "published": "Thu, 01 Oct 2026 09:20:31 GMT"
+    },
+    {
+      "title": "Third Circuit Rejects Fair Use Defense in Landmark AI Legal Research Copyright Case - FindLaw",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRVo1YTBHT2lnWXBoUVp6S1JDYnR4ZkFmaDJoMWViSWNSMWxwRFJvemV0X0l3c2lzdjNLMHBIWEMzOXk0aHV1WnlkS2w3RkdBZ1NiZ2ZGazYtbm5IRmNHaFAtdzlzZkxxWWVIZDNXYWJBLTYyMlhRekRMV2ljVC1GcUEzTDZRLTdTaTZGbmh1QTE4TUVFMUVSNEdmLWpkR0o1ek1uLU4zc05xYUJGTzgzRjBsOEpWMDEycnBBTERmMkdQNzgtREtKLV8xb05CQQ?oc=5",
+      "published": "Fri, 02 Oct 2026 18:38:56 GMT"
+    },
+    {
+      "title": "How to choose an AI investigation solution for law enforcement - Thomson Reuters Legal Solutions",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWU55UDluRGJUbU1tRWdwRGJMVW1lT1FoZ1RwLWgwUUVhcUdNVXJCUDd5U05wdWJJQmVSbEdWc0tUandhdHdHOXIzM0F5UTRScndabG9QdXNESVh2V0hyaWs3QzdHWHdwcUMtanhiYlpxa2xPSWoyWTFJLU5TRHVPakRkTVBZRkE?oc=5",
+      "published": "Wed, 30 Sep 2026 18:03:39 GMT"
+    },
+    {
+      "title": "The AI Industry Wants Models To Assist In Legal Battles, But Will They Help? - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcVNqSDRVbXdGb0NZa2dwQTh0WnVxcVdyOXVUcUw1RV94U2U5R29DV1Vwczh4V2c4UHk4bDJucHhDX2ZxbEpvRk04ek9BV09wYXVwcEVzaXpVR3pqMk1kX3MyTHBZblBYZ3QwV0EwUVNWb21rRDZXQ1dzdHRVRExMUXFOLTlxMXpXcmFiRW5JcHluUXM?oc=5",
+      "published": "Tue, 29 Sep 2026 23:30:00 GMT"
+    },
+    {
+      "title": "SDT strikes off lawyer over AI-generated false authorities - Kennedys Law LLP",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOTBjd29aRVJhQnltaHBxN25UVU5Obm4wSXhhQ0x2SS1BWndBdmxsZm5OcUpQaDh3blcxN3d1UEI5WVBFWVl2ejdqT0dCX0pHSDZFQ2dsUnJhWExYbllpcnVxa2szSGRtVWJiYTdEcFJkSEpiMHJNXzBkT3l6bVV2dWxzYUVNNXI3NU5IZHFMVlpwYnZaQVNYSjdOYTY2VzdzVlZjUUo4SG1lemd6b3N1X0xQdEVzeEY0U2dNZEF1cUtJemQt?oc=5",
+      "published": "Thu, 01 Oct 2026 09:40:12 GMT"
+    },
+    {
+      "title": "Two-Lawyer Firm Wins Tax Case in Australia with Argument Devised by AI - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWTYxcm1rT1gwQVcwUlZET2ZaaXV6RzVNV3o3bl94NW5UNTNCaTljMEJIdFIyTmZWTjhkRi1VUFJqM1NZTWdCR01Ob1U2ck9vWnpOaHhFSmRMcEFDUUlDRF9vWGJoSFdZTWVxalpmVWNuWHNQSW8zdC1ZRFF3dHlxMVhKSWs1NDh3ZlNvRTdJMmFyRGpFUkhBTGF4MEt0bEFsOW1RWjhMcnZiZjNTaE5CdGhuUHNjc3RSbjM2Y0lyNmw2dw?oc=5",
+      "published": "Wed, 30 Sep 2026 01:26:37 GMT"
+    },
+    {
+      "title": "AI and in-house legal practice: professional judgement cannot be automated - Farrer & Co",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUV9lTTRUMkFqR29PR2Y4b25ueG51OW5lZHVMVEJ3a0hUdjRIekJET1VTTVBfQkxTLVp2OTlYelRPTXM5amFBUjI2SkJuQkV0aGFlNHVNSjV1d3VEZXNlUG8yc0FkYVpkN0h1ZXRwNGZuSnM5QVNIekk2N2tRYVBvVThFRDUtS25Fa0Y4eW5JcEtvaVZPam1tZ0RFY3Q5UUhSbUdTeEpENUMzcnpqQzZyMDBseTFhRkZG?oc=5",
+      "published": "Thu, 01 Oct 2026 09:23:27 GMT"
+    },
+    {
+      "title": "The A.I. Industry\u2019s New Worry: \u2018Liability Exposure\u2019 - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGt5enpFT2RsRkhORHdHai1BNDZvTFp6WmVydS1CbVVqRDEwY0VsZnZJNzdWblhuVkNtSnJKNmE2Nkpia0F5QjNpOFFMZ1lfcHN1bUxQNU41MmVZbkZhSmMza0NVNnEwTkhBbE52V1FJOGlaMU13aHJLMnFra0dtWVBn?oc=5",
+      "published": "Fri, 18 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Japanese Court Rules Human Voice Is Protected by Law in Landmark AI Case - Android Headlines",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcDNrYjhCbnRaWWZRdXgtTXBYakJfODNFVENLN2VZNGpZemV0TVZaRldVZHFaTk84bEo2VXoyaEFVUkl4cjlKbkt0bHM5MXRZdzQwcnBkVWZTempiNFRyVVc2ekxVY0M1ZlpmVnc0WWg4dUpaQ3dBb1lyUHdvMHdfc3VWUEd2SU9LQ2dQQWpGV0FvM054R0doVjh2NWlHYlg4MmxQcmxEb19weEZ5T29NTklqcVpIeGZvUnc?oc=5",
+      "published": "Thu, 01 Oct 2026 16:59:35 GMT"
+    },
+    {
+      "title": "Flood of legal AI tools leaves task of verifying fake case law - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFFzNFNMaHltNkdPY2dWb2dDM1RlXzMyY3JaWDFheVc1eEtPcEgzRVlod1JkdF9EYUZTVUxnTVNkODdNNDN2Y2V5alQ0c3o1cGI5OThuMkJ0eVB3Mkl1UGcwNklvdUNLNTlPSGh6dDJwb0lQYVRaeGVxNV9tVG1oTzk1VloxRE96VU8zQkctM1NGRGhUWVNvWFk1MEJXWEdsc3ZiMHVmdzBGODlI?oc=5",
+      "published": "Thu, 01 Oct 2026 05:01:01 GMT"
+    },
+    {
+      "title": "US appeals court considers reassigning case from judge over AI use - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTHgxa0l5RTJITHNVRWZabTlTM09TUkhxNHFLelNyQmRObHNLU2d4Ym1jdi1fdl90VHcwUUdSSnY5bVhoSldWMDhzNmNGQ2ZXZDlwUFlkTVZtanMzSjFmUEpGOVdlWVByLVlvYlNaeXRfZmlwV0lXdFZNdExBcjlNSXl3MEtIWUNuRDZkWWJKaVVyTFFDdDlyT1NjV0pMeWR6NjNTR0xWRkxCaVNEeTVJM3Z5YUk?oc=5",
+      "published": "Mon, 24 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "UK AI law firm wins court case: what it means for AI-driven litigation - Lexology",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0o2YkhFaVdvVXVXd0lUTW9oTm9PVExGZk9BdldyaFpjczhPbmlEU0FjTjBKNE5mbmhBdWNZVzBvbmczSzNxbm9PaVlaLWpjbVZnM1UxWll5N3RvNmhpSFZuNG5mUkI1bVVVQzZYelVsVWlJdXZqSndzYWpTMmdtSFhORmMxbVJnSFhmakM3MFJQM3Z1UnJzVDAwRUxyZDFTNUVNNw?oc=5",
+      "published": "Tue, 23 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Workday\u2019s AI lawsuit keeps spotlight on AI-powered recruiting as case works through courts - HR Brew",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeENfaVNxbUlONmRKYWRId3pxdFhLVW9qLVVmMUZpY0pOTk5RSlFLaFpUY1diTWVTTXR2blBlcFQzdDYxdWxPdVZvU3RFb1N1cjQ1SzJaQTRoa0Q1SDFYMFV3b0pmTmNsN09UYmZnMXJFcVBlTm1hWmNDQ3VyZ2ljbElxVUpOdS1aVTNKVVhNZ21Ec3ZCWThyZmNrdTc4WUpNUW9CbE16ZU0tSUNFZzZJY0Radks2OEY2SklFaUtn?oc=5",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Google to challenge German ruling saying it is liable for AI-generated false claims - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeS04R0h5dWx5VEZadTdlRWZiT01JUlZJMXRqalFLX25PLS1UYXg1RVRWbXJESEtCZnZjUTVJYW9zMDZWTHJHbWgzRTJxOTlRUzk2TVE1UU5MWGVRZ0FTSkdSMUJQd3FvTmdlUzRHTmZjT3N6dEstNXBZU0E2SGdjT3VKUVd3UXlwa2xhbGRoUlo0WHNvd0szdjlpdmdQM3BVdWdqdURCTm5hTUF6Y05MZk1QRlZ6VklRbTNGMmVB?oc=5",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT"
     }
   ]
 }
