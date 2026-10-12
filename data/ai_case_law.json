@@ -1,7 +1,7 @@
 {
   "label": "Ai Case Law",
   "query": "ai case law",
-  "total": 880,
+  "total": 888,
   "articles": [
     {
       "title": "Judge fines law firm Hagens Berman over AI errors in OnlyFans case - Reuters",
@@ -4402,6 +4402,46 @@
       "title": "Google to challenge German ruling saying it is liable for AI-generated false claims - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeS04R0h5dWx5VEZadTdlRWZiT01JUlZJMXRqalFLX25PLS1UYXg1RVRWbXJESEtCZnZjUTVJYW9zMDZWTHJHbWgzRTJxOTlRUzk2TVE1UU5MWGVRZ0FTSkdSMUJQd3FvTmdlUzRHTmZjT3N6dEstNXBZU0E2SGdjT3VKUVd3UXlwa2xhbGRoUlo0WHNvd0szdjlpdmdQM3BVdWdqdURCTm5hTUF6Y05MZk1QRlZ6VklRbTNGMmVB?oc=5",
       "published": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Nippon Life v. OpenAI and the Future of AI Legal Work - Tech Policy Press",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWZyTFAwdU54TFpkUHc3YWowcG9xNTYxQ1NOWWlEVGc3UXNEUlVHYVFQcF9jeU43bkNZcmc1cUJQQUVvOURfWDNzSHFWT0dFcW9oWTNHa0g3dlpOcG84cF9Uc0NLaUtpbjJPZjlINWZGSS1jeXQzYzl4T1E1dndlRVBMWQ?oc=5",
+      "published": "Fri, 09 Oct 2026 10:17:36 GMT"
+    },
+    {
+      "title": "Federal court ruling conflicts with part of Wisconsin law banning AI child pornography - WPR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc3d0dGhHbWlJNEtHMmlIRmc5bjJfbXZjdFEtUzByQWt3TkkzVGVtaldFN0pOMGZHWUszSms1dEZSMTFKdHh0bDYyejlFNTk3YnVTcFRIWmExdVV4ejYwT09kQ0hheURnQWo0REVoMmR2UTdqdE4zMW1lZ0dRVDR2OGVHc2tybnRNOWF3WGdpQWo4OWpIVzNJTUVtYU0tc2dFWUh6UQ?oc=5",
+      "published": "Tue, 08 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "COMMENTARY: These workers say an AI hiring platform discriminated against them. But who should pay? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRXk0aDJiN3RuVlg0RURWZmczcnJwOUtGeGRqcXlMa1VSOFdBYWI1aWhRZl8teTZ1VVdiQmlRYldJWkpPekpmV3J3elpoWG5NODBKVDhEYjg1TjM1eTlyR2hzc0hrbFA5UlNfNl9sdFNiWjJ1QVppRmJ0S2I0bGtBZWJqcElGcC1CWG55UTRabUFrY2tNbTVmeW5VRzhHcEJoSEd1YkdTaTUyeGtDQUxyRTVVSVM1MTlrV1owMUJjZnBHdGpMeVhLXy1n?oc=5",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Exclusive: Google's general counsel says AI can't replace human judgment - Axios",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkN1a2MxU1h2Y3dnY0NXcDRBMUswRXBBZEJ4cDZ5Q29aSk9WM0hoN0pFWnFuQ0RYazdtdWk2a0NyRVg2RmNKMjNFc1JObGZQWVJBVDg0eW9sM3hWdk8yZjNTamd5QTgxMTBfQUtWM2ltN1R4dlBVel9iQ1ptaTFFZ1lpWDJDbmhUanBwcUxzMA?oc=5",
+      "published": "Tue, 08 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "AZ Court of Appeals: Citing fake AI-generated cases can get you sanctioned, no matter your intent - Arizona Mirror",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1hHUmh6a2tRZVlOUEx3aVRLMHZlNzdndVpwQ0lxRUs3LVJyMXoyTk9vV3dyNE1SRTFKZEJzbHNvYWZTNEE2d2l0cElZa1p6NXFtd3lleWJJckVUMnlUc0lLNml0bGRRbW5jb3ZwejlGZ0tXZEQzUVdNaEE4dHBwYWlzblQwbXYyMXQ3Z2NCSUxXNDZYZGxQc2g1WEhzeVBUeXhOMlRqUHRIUEw0V1pvU1E4S3NiN19nOXI1VXdYZ1gyOGdkamNN?oc=5",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How courts are coping with a flood of AI-generated lawsuits - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1J5NVFRanA0MkJuSjMwanY4NFRmV0NUZFJKM1BuTVFoSVk4ak42WS1sTS1NeXZrTVVhWkYwZTZ3MmFRQ3pKbEJxU2NEQ1N0VDVvdlBIRC1GS1g2Z3lLQm9DOHhIa0JscEF5VmtlU3c4UE9HN2NBMDFFazFTYlFEdHlWd3U?oc=5",
+      "published": "Thu, 04 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "AI hallucinated case law in insurance company's filings in L.A. County house fire dispute - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjFoUms2dFFRRWh4VVNUV29neVhKbXNEbnNMZG5YcVg4OTB2UlhHdl91Wk9nMG9wZWdxbmo1WUJfTzRRQmNuWXBuVDUxc0lxdzRFYnBIY0FMdE5vZWwtc1J2SUNDTHpueVhHYnVIV1JBcHJydDd2MHRkZ2xGR2VwalF1aGY?oc=5",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Federal judge removes 4 plaintiffs and defense attorneys over AI errors - ABA Journal",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1Frcnd2TEZFN3hMUVlzUFB4cjhwYWlDbVkyeWI3N3RGY2tNRU0weGg2WjFrUzJjUzl5dUZCb0ZRcVpBNHJ2Sm1ONmUwLUp5ZlFvZURSSDRnNVdQdGU4bE9wOXpGN1dxZUFveXBHLTJLNHBJUUdPQUNZZmFWOWh5cVIzZW80MlhIcDA4WUJ5eTk0dzc5R2ZJdG15aFczczlqT0xGU19qNzdFZ0ZxUzhwc3Zzbw?oc=5",
+      "published": "Wed, 10 Jun 2026 07:00:00 GMT"
     }
   ]
 }
