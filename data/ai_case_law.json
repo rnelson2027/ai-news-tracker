@@ -1,7 +1,7 @@
 {
   "label": "Ai Case Law",
   "query": "ai case law",
-  "total": 888,
+  "total": 904,
   "articles": [
     {
       "title": "Judge fines law firm Hagens Berman over AI errors in OnlyFans case - Reuters",
@@ -4442,6 +4442,86 @@
       "title": "Federal judge removes 4 plaintiffs and defense attorneys over AI errors - ABA Journal",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1Frcnd2TEZFN3hMUVlzUFB4cjhwYWlDbVkyeWI3N3RGY2tNRU0weGg2WjFrUzJjUzl5dUZCb0ZRcVpBNHJ2Sm1ONmUwLUp5ZlFvZURSSDRnNVdQdGU4bE9wOXpGN1dxZUFveXBHLTJLNHBJUUdPQUNZZmFWOWh5cVIzZW80MlhIcDA4WUJ5eTk0dzc5R2ZJdG15aFczczlqT0xGU19qNzdFZ0ZxUzhwc3Zzbw?oc=5",
       "published": "Wed, 10 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Grok cases highlight risks for AI companies under Illinois privacy law - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRWVJR2pCNjdfWktrdGpwUWVEeWE5NWVhSXNrTnRvTkQyNnFxMUgtR2RPOVU1MFdPV21URGFKX25vZ3pjTGVfS0FBdWRWakMySHl4Tl9nOVBMNzh5UmwtVFFqNzdCZkFCRWRJeG9VVDFWeHg4MHVNUmVuZ2ZVbFFOR2VmdWwzOGtHV29pNExiZE9LQ2ZEcjFKdnk2d2Z5OVpULXY2eUZqTU5qUzVtSUJYU2RlalItakoxNnZv?oc=5",
+      "published": "Tue, 13 Oct 2026 20:00:06 GMT"
+    },
+    {
+      "title": "AI agents are going rogue \u2014 and the law can\u2019t keep up - Politico",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LZnZ0Wk1fZHdhdDBFeDRyN0V0cFduem82ZWRYLXU3b2JSUF8tWmNEVmlReDc5UjBEVGw4emhOQmN1dVNiU080bEF1YURHMGdOeFBZVi05UnE2XzZienhNV2ExdE5wNGdKdlVkT1RUczcwQQ?oc=5",
+      "published": "Mon, 12 Oct 2026 10:50:00 GMT"
+    },
+    {
+      "title": "Federal Appeals Court Moves to Crack Down on AI Filings After Lawyers Cite Fake Cases - Law Commentary",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWFCWUY3MjZiOUhfN1VQelVpVVZNcE5jNWRnclp1SklRVzJPODlPTTIxT2tyMUZqVDRKblR4aDF2LXh0TDRyM0JJa21pOHJscHc0blA4NTVILVc3eUJ5Vm5wTEZibU9UcTl4dklBWENpTzdlRXhXQnBLOVB1bVRnTHlxRnFQbi1TbjY0SkVjZWw?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xYXlidUh5V3k5N1pfbzFnenFDUE1Zc3k1QnBCSFl0bGxoR1NjYWE1X0g4U3dtUVlzZGFLSHhubzFMT3lsSnVrYmN2UFl1Z1VSa19iQ2FObWZpVE5OTERDaUlPdEhaTmlFUHVfamNqWTJsaEdxMDUwaDd3?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Lawyers go to war with clients who force them to sit through AI slop - AFR",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV1dRSmV4VlJGODAzTGlrdXIzbHdDcEQ2SnI4VDBqRUNlVWJRQnBieEdiY1VpU0ZiQUtDTlZ2WGZyUjlzU3JuZWU1bW5NUUloSnhHa3VraFlhUW9jbEhxc21vSXZ2bWxod1FEb0dGVzFvTGxZdmhKM0VPTENOWG9BMGYzRTR3Q1BIUWNlYWVsV2J1cUYzNEU5RVp1R1FQZmMybVJwVXBxRU05OUE2WW4tbFhHMFJQSEtGSDNwTFM1OWY3ME41OVFBcF9obXFRNGhsdVE?oc=5",
+      "published": "Thu, 15 Oct 2026 22:00:00 GMT"
+    },
+    {
+      "title": "While calling voice a protected right, court dismisses voice actor\u2019s AI case - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc0t4TjdOUzdJT0dIR09vMVE0cXB6U3JTa05XdTZpWjdhb0dsQUVUWmtWckp0TFVoY3N0M1hvR3lYalNYa0xYUTZhbFVneXh1Q0wwWWlsblBBRERYTkRwd0p2Rjl3R01oSnR1SG03SXV4bE8wUjcwY0owU1pZanBQUmE1NTZUVnctRm9CZ194V0t6T3dmbEx2Qg?oc=5",
+      "published": "Wed, 30 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Texas Lawyers Fear the Hallucinated Citation: Even the Ones Who Use AI Daily - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZnpITndDNmxwQU5IUVRwUnVwZHhVQmNUN3FVSTJnNlpFZV9nZ2FkM0Q4aGhiMnBxSlZjX1pzZUplckoxMk5paG9UUUlTR3pEc0lGUGE4MnBTdVJPbS1LVFVXV29mNWZhNUo3Yzg1VXRZNXF4d2VNdFU4TFV5bXVEYzdLLURXQ0c0MDczMzJzRVI3aGE1Q0dMX3JvNTh2a3pUcWRFeUtwaWQ0Uk5YQlRiRUlSY0g1LWNhOS1N?oc=5",
+      "published": "Fri, 18 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Wuhan Court Considers AI Token Costs in Calculating Damages for Copyright Infringement of AI-Generated Work - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd2kwa2EwRWE0QVhrSk1PWWJOU3p4bVNfS2h1MFpVOWtEdlBkb1JKU0k3QXhEXzBvRWJhVGYzR2h0c2RhSGVIcmtQcGtvMnlKbGE5UzBSdVA2WHNpZDFGTmo3UGNWTzNBdUFCaVJCdm9tbFBTWGJhcU95SFpNS1B0QXZSUDd5QTA5Wk56VG1ST21vS3dnSHhzT1ZGSDQxQ01xdk1FeGRSQlZRWm02ZEczOUVESUNDQdIBuwFBVV95cUxPamxFZHNfQW9pZHNaYmpXWmM4bGVITFg5a0RyNFJacWc1WDUyWVNCdFBBdXoyQms3YVR5YUUzbURlYV9SNkc4TnBUU0RkLWg2X1ladFpMMU83d1Njc3FTYUhKRjF1dTl3UXlYWUlYc3lZNU1ZdkwzLU9nWEk1TF9UbFh2YVpiVDlNVEFuNUpZTVI5N2FqR1NaUXJtVlg4akpGcU52VHNySDNvd1VmOFE3dUN1U2dGUlNseXVN?oc=5",
+      "published": "Thu, 24 Sep 2026 20:01:36 GMT"
+    },
+    {
+      "title": "There is no free benchmark: An institutional view of legal AI benchmarking - PNAS",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAweFpRay1UQjN6bk9lamk4RWgtRjNQUTFIVXc4SEtMQ0RPemVXWTFMMnhOT2VweU9YQ2gyQ0Z2WHVtYTkwSkxSdE9yYkN2ZW5SOGs3aUlZR3h2M3It?oc=5",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Marble Law Launches AI-Powered Legal Engine to Help Clients Understand Their Case and What Comes Next - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOekRmcXVTaGxZZDlnMWdJTFJrS2ZJd1B4M0RfdW95R1NIUlRRMEtiVTZyZlpMTFVQRlpqVjBXZTZLRjctN0FMZVZ0TGZDU3kyQk9PeEVQcTNTOElXTkJ5Z0FXWE1oLWU3bDZpbUJzZk1vQzhBVVVSb1lwc1JIVUNsR2E1ek1qX1J5MGNYRGNjcjF0UEVIaG5IUGIwRHNTWHgyRGNYUlZtcWJtc3l5NE1ES0VCSEkxNjJCUGQ2MXhLZWxGOVVza2J5UnVYQnZ4VjF2eW9lU21PamR1UTdtOTNZSThYY082Q1ZWTGhBMHhlZkFaVzBaUkJPNHpGMDBCZjJlT1BR?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Federal judge warns law is being left behind by AI child sex abuse images - Maryland Daily Record",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeG9fZEZoRmlrTGpDT0UzcHJndTJjd25oc0E1YjVSdTE1bWNmaGVKUFdwWkxLbF9oZnlpY0lyYmZlRHJCbjlrQ3BNUFQ0Q2EwREFYQ3JTZ2s2ZjlOcGZ0aUNKMVBFMkNrb1psRGxhcUhsdDdMR0ZkYWlreFJVcUctblFiYmRmek12OEkzTDlQazZwVGo2Q1ZXSzRB?oc=5",
+      "published": "Mon, 31 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Top quality US primary law now live in Legora - Legora",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JR2dMY0hNYmpCT1RsNDJmYlVja19qd2dIeGNndy15RFphREVBcG1FM01FQkZSV2R6eS1RWDhSSWN5WXhNd2s1cUZ1czFJd0N6TjFTWk9vLUE3VVNmcWFCd3ZSUnpsMDNBMjk0aXlRRmljVHc4Y1M4Y2l5Wnp3UQ?oc=5",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "As State Bars Consider Strict AI Rules, Access to Justice Programs Face a Major Threat - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmJIQmM2SlBnNXZIdXh6MEtGdm1vOHV1MVRCUW1xWVkxRkVZNkFzdHVfQ2hDLW9iWnpxdGJ6d0VheHY5Qy1sOU9JNWxpbnJCcHdIb0NiRDdMaEdIb3BVOGt5ZXJrLUZIWmRobVFDd3Rxdld6b2NLbGxJYkVEeTdnZmdSbm1odHM5NXVJcTRMMnhHNDdLUTJQNkdfWXVRYWJRNDZzV2ZpZ2Z6emxqR3o2SWVLTFFOREQyeTBrYTdlOXpwaGFQVWd4aFpwMndULWctVE9fUUtTNEdLQkE?oc=5",
+      "published": "Mon, 06 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Court Orders Disclosure of Expert Witness\u2019s AI Prompts: What Litigators Need to Know - Mayer Brown",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeUpwc09XVUprWlF0Q3AyZm9YYjZwSFQ1ZXFyR2kzS2h4enhiUU9KMFRFMmkwdkZTNDliTkN2SGxWYkZrOU52eTJfR2x4bTBtczlQZy1DaWYyLWpqTmJRVlpaZERQS2lFSVRMTmRUQ3BSbW9GakFFUl9XVjd2dWxXUENtbjNjbXdITy1MdTZ6eUM1VTVHZ2Y5Ymw2Y3NzVEdBU1oyNXZiSk82OTVLb2MxQlYzb29oTHEzVHM2UUo3Q0VqTFQ4aXJMRXBKS2FsMTBOT0JmaHNTT0l4dw?oc=5",
+      "published": "Wed, 10 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Can Careful Training Make AI a Trusted Partner for Judges Worldwide? - IEEE Spectrum",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UT1V5d2djRElHTktxNk5aOE85SXJ4UWRGZ1lkQU03TGpUcjBxWUlMcFQ5WGd4YmNicmhsRk9vZ0dYbW9FbDdiQ2FXRjFLMHRiVjdfcXlqQlo?oc=5",
+      "published": "Thu, 13 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "AI Note-Taking Tools, Silent Recording, and the Consent Problem: What the Granola Class Action Means for Companies Building and Deploying Conversation Capture Tools - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMTRUYjBpbUFZMWxXRVV4ejNwM3NOUmh5RHRlLTJiSUFuS0tLSF9jM0M0cW9sZUpvX3FRb0FfMnNXdm9UdmxrY2VVcENuVk1nOVNmMG9xcmFzVXpoUG4xQ2g2QTlQb1lUMVU2MzVjVURQZHZLRzZNV2RoeC1GRlVNV2g2Zkc2aW5HQkRURG9Rc0syMWtu0gGaAUFVX3lxTE83dXdDZS1LSUNmTTI0SWlaUWJscWJCM2hpRmw2M2xHczl5T0pzVWhIREJqdkg0X3JQLVJKT2twdGM1akwtS2ZjaEk4TVNTTlMtODAzNWh3MDJlTUhudnVEMnU3N0hSXzBpZTdCTE90NHBPRDE4dzJhN2FtMkVnUmFqSGZHS1R3V3VXVmR0VTNETmlrdHpZWWFoQmc?oc=5",
+      "published": "Wed, 12 Aug 2026 21:13:56 GMT"
     }
   ]
 }
